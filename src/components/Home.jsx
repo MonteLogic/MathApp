@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import mathMatchLogo from "./Logo2.png";
+import mathMatchLogo from "../../public/Logo2.png";
 
 export default function Home() {
   return (
